@@ -1,0 +1,11 @@
+.Look {
+    margin: 3rem auto;
+    max-width: 45rem;
+    /* background-image: url("https://t4.ftcdn.net/jpg/01/19/11/55/360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.webp"); */
+    padding: 7rem;
+    text-align: left;
+  }
+  .Look h1 {
+    color: white;
+    text-align: center;
+  }

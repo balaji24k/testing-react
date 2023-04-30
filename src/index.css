@@ -1,10 +1,20 @@
 body {
   margin: 0;
+  /* background-image: url("https://t4.ftcdn.net/jpg/01/19/11/55/360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.webp"); */
+  background-image: url("https://t4.ftcdn.net/jpg/01/18/61/65/240_F_118616519_k7bfYYxDnEeem4oIgIGttiCi46xIfIbG.jpg");
+  /* background-image: url("https://t4.ftcdn.net/jpg/04/53/75/55/240_F_453755542_VMMuTaljVDHUBdKArk0oUXp09BRKLwVv.jpg"); */
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.dark {
+  background-color: rgb(14, 12, 12) !important;
+  color: green !important;
 }
 
 code {
